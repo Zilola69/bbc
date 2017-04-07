@@ -5,11 +5,13 @@
     <title>bbc</title>
   </head>
   <body>
+  
     <div class="container markdown-body">
+    
       <h1 id="bbc">BBC</h1>
 
 
-<img src="http://ichef.bbci.co.uk/corporate2/images/width/live/p0/0l/3r/p00l3rnt.jpg"><table>
+<img src="http://ichef.bbci.co.uk/corporate2/images/width/live/p0/0l/3r/p00l3rnt.jpg/624"><table>
 
 <tbody><tr>
 <th colspan="3"><marquee direction="right">BBC</marquee></th>
@@ -68,9 +70,5 @@
 </tr>
 
 </tbody></table>
-
-
-    </div>
-  
-
+</div>
 </body></html>
