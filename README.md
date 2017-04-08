@@ -6,11 +6,8 @@
     <title>bbc</title>
   </head>
   <body>
-  
-    <div class="container markdown-body">
-    
-      <h1 id="bbc">bbc</h1>
-
+  <div class="container markdown-body">
+ <h1 id="bbc">bbc</h1>
 
 <img src="http://ichef.bbci.co.uk/corporate2/images/width/live/p0/0l/3r/p00l3rnt.jpg/624"><table>
 
