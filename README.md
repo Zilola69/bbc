@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>bbc</title>
   </head>
-  <body style="background-color:darkred;">
+  <body style="background-color:DarkRed ;">
   <div class="container markdown-body">
  <h1 id="bbc">bbc</h1>
 
