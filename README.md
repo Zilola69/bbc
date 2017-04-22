@@ -52,9 +52,41 @@
 </tr>
 
 <tr>
+<th>Keywords Test</th>
+<td>It can be useful, however, to note which keywords appear most often in your page, and if they reflect the intended topic of your page. More importantly, the keywords in your page should appear within natural sounding and grammatically correct copy.</td>
+<td>There is likely no optimal keyword density (search engine algorithms have evolved beyond keyword density metrics as a significant ranking factor).</td>
+</tr>
+
+
+<tr>
+<th>Keywords Test</th>
+<td>Primary keywords should appear in your meta-tags to help identify the topic of your webpage to search engines.</td>
+<td>Common keywords are not appearing in one or more of the meta-tags above.</td>
+</tr>
+
+<tr>
+<th>Noindex Tag Checker</th>
+<td>this means that your webpage will be read and indexed by search engines.</td>
+<td>this webpage does not use the noindex meta tag.</td>
+</tr>
+
+<tr>
+<th>Nofollow Tag Checker</th>
+<td>this means that search engins will crawl all links from your webpage.</td>
+<td>this webpage does not use the nofollow meta tag.</td>
+</tr>
+
+
+<tr>
 <th>Image Alt Test</th>
 <td>should have more attributes</td>
 <td>this webpage has 69 'img' tags and 10 of them missing the required 'alt' attribute.</td>
+</tr>
+
+<tr>
+<th>WWW redirection Test</th>
+<td>A redirect is in place to redirect traffic from your non-preferred domain</td>
+<td>this website directs www.bbc.com and bbc.com to the same URL.</td>
 </tr>
 
 <tr>
@@ -63,10 +95,55 @@
 </tr>
 
 <tr>
-<th>expiration</th>
-<td colspan="2">days left 27 Years, 9 Months</td>
+<th>Sitemap Testt</th>
+<td colspan="2">There are 6 sitemaps files for this website:</td>
+</tr>
+
+<tr>
+<th>Robots.txt Test</th>
+<td colspan="2">This website use a "robots.txt" file: http://bbc.com/robots.txt
+⟩⟩ http://b</td>
+</tr>
+
+<tr>
+<th>Robots.txt Test</th>
+<td colspan="2">This website use a "robots.txt" file: http://bbc.com/robots.txt
+⟩⟩ http://b</td>
+</tr>
+
+<tr>
+<th>Google search results preview</th>
+<td colspan="2">http://www.bbc.com/</td>
 </tr>
 
 </tbody></table>
+
+<p> <p>
+
+<img src="https://ichef.bbci.co.uk/images/ic/1200x675/p01m1rbq.jpg">
+
+<table>
+<tbody>
+
+<tr>
+<th colspan="3"><marquee direction="right">Domain Age Checker</marquee></th>
+</tr>
+
+<tr>
+<th>Domain Created on :</th>
+<th>Age</th>
+<th>Domain Updated on :</th>
+</tr>
+
+<tr>
+<th>15 July, 1989</th>
+<td>27 Years, 9 Months</td>
+<td>15 June, 2016</td>
+</tr>
+
+</tbody>
+</table>
+
+
 </div>
 </body></html>
