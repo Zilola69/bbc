@@ -122,6 +122,30 @@
 
 <img src="https://ichef.bbci.co.uk/images/ic/1200x675/p01m1rbq.jpg">
 
+
+<table>
+<tbody>
+
+<tr>
+<th colspan="3"><marquee direction="right">MozRank Checker</marquee></th>
+</tr>
+
+<tr>
+<th>URL: :</th>
+<th>Domain Authority(Max = 100)</th>
+<th>Moz Rank</th>
+</tr>
+
+<tr>
+<th>http://www.bbc.com/</th>
+<td>95.51</td>
+<td>6.53</td>
+</tr>
+
+</tbody>
+</table>
+
+
 <table>
 <tbody>
 
